@@ -10,7 +10,7 @@
 - **max_seq_length**: 1024 (p95 analysis = 562 tokens, rounded up to power of 2)
 - **GPU**: Tesla T4 (Google Colab Free), 16 GB VRAM
 - **Training cost**: ~$0.07 (~12.6 phút tổng cộng @ $0.35/hr)
-- **HF Hub link**: https://huggingface.co/dauvannam1804/qwen2.5-3b-vi-lab21-r16
+- **HF Hub link**: https://huggingface.co/dauvannam321/qwen2.5-3b-vi-lab21-r16
 
 ## 2. Rank Experiment Results
 
